@@ -1,0 +1,26 @@
+{
+  "name": "Calculadora de Porcentajes",
+  "short_name": "CALC. PORCENTAJES",
+  "icons": [{
+    "src": "images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "images/android-chrome-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }, {
+      "src": "images/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }, {
+      "src": "images/mstile-150x150.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    }],
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white"
+}
